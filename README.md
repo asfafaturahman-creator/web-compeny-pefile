@@ -15,8 +15,7 @@ Website ini dibuat menggunakan bahasa HTML, CSS, dan Javascript dasar
 Dengan kelompok yang ber anggotakan
 - Asfa Faturohman
 - Agilo Gian Pandega
-- Fikri Imam Bhakti Perwira
+- Fikri
 - Dwiki Hardiansyah
-
 
 
